@@ -1,0 +1,21 @@
+{
+  "name": "tour-and-travel",
+  "version": "1.0.0",
+  "description": "A project to help users plan and manage their travel itineraries.",
+  "main": "index.js",
+"type": "module",
+"scripts": {
+
+    "start": "serve -s ."
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/user-event": "^13.2.1",
+    "web-vitals": "^2.1.0"
+  }
+}
